@@ -17,5 +17,8 @@ Currently my main interest is the functional programming and Scala. Also I like 
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![hardmet's github stats](https://github-readme-stats.vercel.app/api?username=hardmet&show_icons=true&theme=tokyonight)
+
+![overall](https://github-readme-stats.vercel.app/api?username=hardmet&show_icons=true&theme=tokyonight)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardmet&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![hardmet's hardmet stats](https://github-readme-stats.vercel.app/api/wakatime?username=hardmet&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
