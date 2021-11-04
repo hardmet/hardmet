@@ -1,8 +1,8 @@
 ### This is Boris Azanov profile
 
-[![](https://img.shields.io/badge/-@hardmet-%23181717?style=flat-square&logo=gitlab)](https://gitlab.com/hardmet)
-[![](https://img.shields.io/badge/-@borisazanov-%23000000?style=flat-square&logo=linkedin)](www.linkedin.com/in/borisazanov)
-[![](https://img.shields.io/badge/-@BorisAzanov-%23000000?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/6770614/boris-azanov)
+[![gitlab](https://img.shields.io/badge/-@hardmet-%23181717?style=flat-square&logo=gitlab)](https://gitlab.com/hardmet)
+[![linkedin](https://img.shields.io/badge/-@borisazanov-%23000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/borisazanov)
+[![stackoverflow](https://img.shields.io/badge/-@BorisAzanov-%23000000?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/6770614/boris-azanov)
 <br/>
 
 ## Bio
