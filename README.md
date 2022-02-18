@@ -23,4 +23,5 @@ Currently my main interest is the functional programming and Scala. Also I like 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardmet&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![hardmet's hardmet stats](https://github-readme-stats.vercel.app/api/wakatime?username=hardmet&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
