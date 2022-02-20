@@ -25,10 +25,8 @@ Currently my main interest is the functional programming and Scala. Also I like 
 [![hardmet's hardmet stats](https://github-readme-stats.vercel.app/api/wakatime?username=hardmet&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-Total: 25 hrs 57 mins
-
-Scala      25 hrs 49 mins  █████████████████████████   99.49 % 
-JSON       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-textmate   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Scala      22 hrs 20 mins  █████████████████████████   99.42 % 
+JSON       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+textmate   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-->
