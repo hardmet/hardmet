@@ -26,12 +26,12 @@ Currently my main interest is the functional programming and Scala. Also I like 
 <!--START_SECTION:waka-->
 
 ```text
-Scala            11 hrs 5 mins   █████████████████████░░░░   84.09 %
-Java             1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Markdown         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-HOCON            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Scala            7 hrs 33 mins   ███████████████████▓░░░░░   78.78 %
+Java             1 hr 19 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
+Markdown         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+HOCON            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
