@@ -1,16 +1,28 @@
-name: Waka Readme
+name: Daily README Wakatime stats Updater
 
 on:
-  workflow_dispatch:
   schedule:
-    # Runs at every 12AM UTC
-    - cron: "0 0 * * *"
+    - cron: '30 0 * * *'
+  workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  waka:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
+        id: first-attempt
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          COMMIT_MESSAGE: Update weekly stats in the readme.md
+        continue-on-error: true
+      - name: Wait 30 minutes
+        run: sleep 1800
+        if: steps.first-attempt.outcome == 'failure'
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          COMMIT_MESSAGE: Update weekly stats in the readme.md
+        if: steps.first-attempt.outcome == 'failure'
