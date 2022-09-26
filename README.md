@@ -26,7 +26,7 @@ Currently my main interest is the functional programming and Scala. Also I like 
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 September 2022 - To: 24 September 2022
+From: 18 September 2022 - To: 25 September 2022
 
 Scala   20 hrs 28 mins  ████████████████████████▓   99.07 %
 HOCON   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
