@@ -25,14 +25,14 @@ Currently my main interest is the functional programming and Scala. Also I like 
 [![hardmet's hardmet stats](https://github-readme-stats.vercel.app/api/wakatime?username=hardmet&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
-Scala           25 hrs 36 mins  ██████████████████████▒░░   88.93 %
-Go              2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Perl5 Package   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Perl            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-HOCON           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Scala           22 hrs 57 mins  █████████████████████▒░░░   85.00 %
+Go              2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+Perl5 Package   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Java            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Perl            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
