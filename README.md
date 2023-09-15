@@ -26,14 +26,14 @@ Currently my main interest is the functional programming and Scala. Also I like 
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-Scala          7 hrs 12 mins   ███████████████████░░░░░░   76.04 %
-Go             1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-JSON           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-ActionScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-HOCON          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Log            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Scala          6 hrs 2 mins    ██████████████████▓░░░░░░   74.42 %
+Go             1 hr 36 mins    █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+JSON           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Ezhil          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Log            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+XML            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
