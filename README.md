@@ -26,10 +26,10 @@ Currently my main interest is the functional programming and Scala. Also I like 
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 January 2024 - To: 07 February 2024
+From: 01 February 2024 - To: 08 February 2024
 
-Scala      9 hrs 18 mins   ███████████████████████▓░   94.37 %
-Other      21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Scala      8 hrs 22 mins   ████████████████████████░   96.28 %
+Other      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
