@@ -26,7 +26,7 @@ Currently my main interest is the functional programming and Scala. Also I like 
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 February 2024 - To: 09 February 2024
+From: 03 February 2024 - To: 10 February 2024
 
 Scala      7 hrs 29 mins   ████████████████████████▒   97.53 %
 YAML       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
